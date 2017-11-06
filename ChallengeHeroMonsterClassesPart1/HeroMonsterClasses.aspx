@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
+        <br />
         <asp:Label ID="characterStatusLabel" runat="server"></asp:Label>
         <br />
         <br />
